@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranshdalal" alt="pranshdalal" /></a> </p>
 
-- 🌱 I’m currently learning **Pytorch and Tensorflow**
+- 🌱 I’m currently learning **Pytorch and React Native**
 
 - 👨‍💻 All of my projects are available at [https://digital-portfolio-zeta.vercel.app/](https://digital-portfolio-zeta.vercel.app/)
 
