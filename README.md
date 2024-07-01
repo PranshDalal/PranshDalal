@@ -15,9 +15,7 @@
 
 - ⚡ Fun fact **My nickname is Dalalipop**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+
 
 
 
