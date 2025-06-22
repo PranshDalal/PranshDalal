@@ -7,11 +7,7 @@
 
 - 🌱 I’m currently learning **Pytorch and React Native**
 
-- 👨‍💻 All of my projects are available at [https://digital-portfolio-zeta.vercel.app/](https://digital-portfolio-zeta.vercel.app/)
-
 - 💬 Ask me about **Python, Javascript, and Machine Learning**
-
-- 📫 How to reach me **pranshdalal@gmail.com**
 
 - ⚡ Fun fact **My nickname is Dalalipop**
 
