@@ -16,7 +16,7 @@
     </div>
 
   <div style="flex: 1; min-width: 280px; text-align: center; box-shadow: 0 8px 24px rgb(0 0 0 / 0.15); border-radius: 12px; overflow: hidden;">
-      <img src="https://github.com/PranshDalal/animation/blob/main/temp.gif?raw=true" width="100%" alt="Animated preview" style="display: block; border-radius: 12px 12px 0 0;" />
+      <img src="https://github.com/PranshDalal/PranshDalal/blob/main/temp.gif?raw=true" width="100%" alt="Animated preview" style="display: block; border-radius: 12px 12px 0 0;" />
       <div style="font-style: italic; margin-top: 12px; margin-bottom: 16px; color: #666; font-size: 0.9rem; background: #f9f9f9; padding: 8px 12px; border-radius: 0 0 12px 12px;">
         Me dancing with ChatGPT made in Blender
       </div>
