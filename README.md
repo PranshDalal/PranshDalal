@@ -27,7 +27,6 @@
   <section style="margin-bottom: 2rem;">
     <h2 style="color: #0078D7; margin-bottom: 1rem;">GitHub Stats</h2>
     <div align="center" style="display: flex; gap: 24px; justify-content: center; flex-wrap: wrap;">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranshdalal&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=58a6ff" alt="GitHub Stats"/>
       <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranshdalal&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" alt="Top Languages"/>
     </div>
     <div align="center" style="margin-top: 1rem;">
