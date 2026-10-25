@@ -13,7 +13,7 @@
 📚 Learning PyTorch & mobile app development
 🎬 Animation, AI, & anything tech that's cool
 🍭 Nickname: Dalalipop!
-🙂 Check out <a href="https://portfolio.moodreads.ai/" target="_blank">my portfolio</a> for more about me!
+🙂 Check out <a href="pranshdalal.com" target="_blank">my portfolio</a> for more about me!
 </pre>
   </div>
 
